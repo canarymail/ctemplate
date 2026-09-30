@@ -9,3 +9,6 @@ vsprojects/libctemplate/Debug
 vsprojects/libctemplate/Release
 vsprojects/libctemplate/x64/Debug
 vsprojects/libctemplate/x64/Release
+
+# Persistent Xcode compilation results.
+/.compilation-cache/

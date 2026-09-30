@@ -403,6 +403,8 @@
 		C6D4FD5219FCB952001F7E01 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				COMPILATION_CACHE_ENABLE_CACHING = YES;
+				COMPILATION_CACHE_CAS_PATH = "$(PROJECT_DIR)/../.compilation-cache";
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
